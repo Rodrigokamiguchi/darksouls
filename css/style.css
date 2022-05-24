@@ -1,0 +1,10 @@
+@font-face{
+    font-family: Smooch;
+    src: url(../fonts/Smooch/Smooch-Regular.ttf);
+}
+
+.logo{
+    font-family: Smooch;
+    font-size: 3em;
+    color: indigo;
+}
